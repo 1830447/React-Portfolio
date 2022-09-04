@@ -6,8 +6,6 @@ const Slider = () => {
         <div class="container">
             <h2>proyectos</h2>
             <div class="programas">
-
-            
             <div class="carta">
                 <h3>App clima</h3>
                 <p>App web de clima usa una API de timpo climatico. Usando tecnologias como React | Bootstrap | API</p>
