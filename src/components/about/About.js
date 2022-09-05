@@ -8,7 +8,7 @@ const About = () => {
       <div className="about-desc">
         <h3>Acerca de mi</h3>
         <p>
-          ingeiero en TI en busca de una salida laboral y practicar sus conociminetos.
+          Ingeiero en TI en busca de una salida laboral y practicar sus conociminetos.
         </p>
       </div>
       <div className="about-img">

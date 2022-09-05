@@ -9,17 +9,17 @@ const Slider = () => {
             <div class="carta">
                 <h3>App clima</h3>
                 <p>App web de clima usa una API de timpo climatico. Usando tecnologias como React | Bootstrap | API</p>
-                <button>Link</button>
+                <a href="https://github.com/1830447/app-clima" target="_blank">Link</a>
             </div>
             <div class="carta">
                 <h3>Gestion de usuarios</h3>
                 <p>Este proyecto se realizo en conjunto de la UPV. Usando tecnologias como React | Bootstrap | Jquery</p>
-                <button>Link</button>
+                <a href="https://github.com/1830447/Migracion-de-los-modulos-del-administrador-y-recursos-humanos" target="_blank">Link</a>
             </div>
             <div class="carta">
                 <h3>Generador de tareas</h3>
                 <p>Gestor de tareas agrega elimina y selecciona las tareas. Usando tecnologias como React</p>
-                <button>Link</button>
+                <a href="https://generacion-tareas.netlify.app/" target="_blank">Link</a>
             </div>
         </div>
         </div>    
