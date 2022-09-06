@@ -9,7 +9,7 @@ const Slider = () => {
             <div class="carta">
                 <h3>App clima</h3>
                 <p>App web de clima usa una API de timpo climatico. Usando tecnologias como React | Bootstrap | API</p>
-                <a href="https://github.com/1830447/app-clima" target="_blank" rel="noopener noreferrer">Link</a>
+                <a href="https://master--app-clima-j.netlify.app/" target="_blank" rel="noopener noreferrer">Link</a>
             </div>
             <div class="carta">
                 <h3>Gestion de usuarios</h3>
